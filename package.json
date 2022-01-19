@@ -1,0 +1,32 @@
+{
+  "name": "nx-stryker",
+  "version": "1.0.0",
+  "description": "Stryker builders and schematics for Nrwl Nx monorepositories.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nx test nx-stryker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirionlogan/nx-stryker.git"
+  },
+  "keywords": [
+    "stryker",
+    "nx",
+    "monorepo",
+    "mutation",
+    "mutation testing",
+    "testing",
+    "test",
+    "package",
+    "schematics",
+    "generators",
+    "builders"
+  ],
+  "author": "Logan Thirion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thirionlogan/nx-stryker/issues"
+  },
+  "homepage": "https://github.com/thirionlogan/nx-stryker#readme"
+}
