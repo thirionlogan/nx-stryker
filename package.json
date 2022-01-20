@@ -1,6 +1,6 @@
 {
   "name": "nx-stryker",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Stryker builders and schematics for Nrwl Nx monorepositories.",
   "main": "src/index.ts",
   "scripts": {
