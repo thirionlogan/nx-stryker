@@ -2,7 +2,7 @@
   "name": "nx-stryker",
   "version": "1.0.0",
   "description": "Stryker builders and schematics for Nrwl Nx monorepositories.",
-  "main": "src/index.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "nx test nx-stryker"
   },
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/thirionlogan/nx-stryker/issues"
   },
-  "homepage": "https://github.com/thirionlogan/nx-stryker#readme"
+  "homepage": "https://github.com/thirionlogan/nx-stryker#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
 }
