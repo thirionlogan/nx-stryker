@@ -1,6 +1,6 @@
 {
   "name": "nx-stryker",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Stryker builders and schematics for Nrwl Nx monorepositories.",
   "main": "src/index.ts",
   "scripts": {
@@ -29,7 +29,12 @@
     "url": "https://github.com/thirionlogan/nx-stryker/issues"
   },
   "homepage": "https://github.com/thirionlogan/nx-stryker#readme",
-  "dependencies": {
-    "typescript": "^4.5.4"
+  "devDependencies": {
+    "@nrwl/cli": "13.4.6",
+    "@nrwl/tao": "13.4.6",
+    "@nrwl/workspace": "13.4.6",
+    "@types/node": "16.11.7",
+    "prettier": "^2.3.1",
+    "typescript": "~4.4.3"
   }
 }
