@@ -32,7 +32,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.23",
     "@angular/compiler-cli": "~8.2.14",
-    "@nrwl/cli": "13.4.6",
+    "@nrwl/cli": "13.7.1",
     "@nrwl/devkit": "13.4.6",
     "@nrwl/schematics": "^8.12.11",
     "@nrwl/tao": "13.4.6",
