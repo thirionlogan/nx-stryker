@@ -35,7 +35,7 @@
     "@nrwl/cli": "13.4.6",
     "@nrwl/devkit": "13.4.6",
     "@nrwl/schematics": "^8.12.11",
-    "@nrwl/tao": "13.4.6",
+    "@nrwl/tao": "13.9.0",
     "@nrwl/workspace": "13.4.6",
     "@stryker-mutator/core": "^5.6.1",
     "@types/node": "16.11.7",
